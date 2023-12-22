@@ -14,3 +14,5 @@ State trong React Native giống như tâm trạng của một người bạn v�
 Tương tự như vậy State cho phép lưu trữ thông tin có thể thay đổi trong ứng dụng, khi có sự thay đổi, React Native sẽ tự động cập nhật giao diện.
 State thường được sử dụng khi chúng ta muốn theo dõi và cập nhật các giá trị theo thời gian.
 Để hiểu hơn về cách State hoạt động trong React Native, hãy xem ví dụ cụ thể sau đây.
+--> Đọc thêm tại file docx: 
+[day2.docx](https://github.com/tinluuVTL/React-Native/files/13751810/day2.docx)
